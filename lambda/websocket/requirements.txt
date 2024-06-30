@@ -1,0 +1,4 @@
+boto3
+botocore
+aws_lambda_powertools
+pydantic
